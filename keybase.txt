@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/andrewdaly
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://techandrewire.com
+  * I am andrewdaly (https://keybase.io/andrewdaly) on keybase.
+  * I have a public key ASCXOPjMF8dpn9RJ-cNawDRNBvXal9kYyhHhpJaLa4O8rAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01209738f8cc17c7699fd449f9c35ac0344d06f5da97d918ca11e1a4968b6b83bcac0a",
+            "host": "keybase.io",
+            "kid": "01209738f8cc17c7699fd449f9c35ac0344d06f5da97d918ca11e1a4968b6b83bcac0a",
+            "uid": "957c4a0cd08efd2169c0a4b230445b19",
+            "username": "andrewdaly"
+        },
+        "service": {
+            "hostname": "techandrewire.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1493167733,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1493164050,
+        "hash": "4a9cdcf55730fa95241b5665b38e5c580fb486937de7bdd4271dde275e20444ff1711ffc1b0df9717c0426c7d3ea036226253ab5123b685abc8b82fd182ed779",
+        "seqno": 1038288
+    },
+    "prev": "42a62cca50e727122f2fd7262118cbd0fab9f9e822b75dc6d942c18f5798bb39",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglzj4zBfHaZ/USfnDWsA0TQb12pfZGMoR4aSWi2uDvKwKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTczOGY4Y2MxN2M3Njk5ZmQ0NDlmOWMzNWFjMDM0NGQwNmY1ZGE5N2Q5MThjYTExZTFhNDk2OGI2YjgzYmNhYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTczOGY4Y2MxN2M3Njk5ZmQ0NDlmOWMzNWFjMDM0NGQwNmY1ZGE5N2Q5MThjYTExZTFhNDk2OGI2YjgzYmNhYzBhIiwidWlkIjoiOTU3YzRhMGNkMDhlZmQyMTY5YzBhNGIyMzA0NDViMTkiLCJ1c2VybmFtZSI6ImFuZHJld2RhbHkifSwic2VydmljZSI6eyJob3N0bmFtZSI6InRlY2hhbmRyZXdpcmUuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMSJ9LCJjdGltZSI6MTQ5MzE2NzczMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkzMTY0MDUwLCJoYXNoIjoiNGE5Y2RjZjU1NzMwZmE5NTI0MWI1NjY1YjM4ZTVjNTgwZmI0ODY5MzdkZTdiZGQ0MjcxZGRlMjc1ZTIwNDQ0ZmYxNzExZmZjMWIwZGY5NzE3YzA0MjZjN2QzZWEwMzYyMjYyNTNhYjUxMjNiNjg1YWJjOGI4MmZkMTgyZWQ3NzkiLCJzZXFubyI6MTAzODI4OH0sInByZXYiOiI0MmE2MmNjYTUwZTcyNzEyMmYyZmQ3MjYyMTE4Y2JkMGZhYjlmOWU4MjJiNzVkYzZkOTQyYzE4ZjU3OThiYjM5Iiwic2Vxbm8iOjcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAhPr2UZy+Ub6lYkBAdnyvxU8z4qIU3pbTQAFMoNRx95hRWMDNC7GeoXbwqmn1LZ16Yza/AnTWvTTLLbBY+sVRA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJs1THLqmoW2XiYDKMTSTnF+qeLwxpZXO5GQAMCcdr2no3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andrewdaly
+
+==================================================================
